@@ -14,9 +14,7 @@
 #include <iomanip>
 #include <ctype.h>
 
-
-
-//declare functions here
+// declare functions here
 using namespace std;
 void ex();
 void intro();
@@ -31,4 +29,4 @@ int player_batting(int target);
 
 void cricket();
 
-#endif //CRICKET_FUNCTION_PROTOTYPE_H
+#endif // CRICKET_FUNCTION_PROTOTYPE_H
